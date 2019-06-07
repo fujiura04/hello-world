@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi Humans !
+
+I'm a beginner in programming.
+Thank you.
